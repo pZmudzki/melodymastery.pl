@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  /* 10px / 16px = 0.625 = 62.5% */
+  /* Percentage of user's browser font-size setting */
+  font-size: 62.5%;
+  font-family: "IBM Plex Serif", serif;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
