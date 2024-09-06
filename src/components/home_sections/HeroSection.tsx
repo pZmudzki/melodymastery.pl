@@ -14,9 +14,9 @@ function HeroSection() {
             </span>
           </h1>
           <p className="text-lg sm:text-2xl md:text-3xl lg:text-4xl lg:mx-20 xl:mx-10 text-center text-gray-200 xl:text-gray-300  mt-8 sm:mt-14 md:mt-20 tracking-wider leading-normal px-10">
-            Twoim marzeniem jest nauczyć się profesjonalnie śpiewać? rozwinąć
-            muzycznie? nagrywać w profesjonalnym studio wokalnym bądź występować
-            na wielkich scenach? Idealnie trafiłeś! Nie pozwól czekać marzeniom
+            Twoim marzeniem jest nauczyć się śpiewać? rozwinąć muzycznie?
+            nagrywać w profesjonalnym studio nagraniowym bądź występować na
+            wielkich scenach? Idealnie trafiłeś! Nie pozwól czekać marzeniom
             tylko pomóż im i zapisz się do MelodyMastery!
           </p>
           <div className="flex w-full gap-4 mt-16 sm:mt-20 md:mt-28 md:mb-32 xl:mt-44 justify-center items-center">

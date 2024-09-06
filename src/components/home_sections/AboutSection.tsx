@@ -11,14 +11,14 @@ function AboutSection() {
             <h3 className="text-5xl mt-4 font-bold">Dlaczego my?</h3>
             <p className="text-2xl xl:text-3xl mt-2 tracking-wide ">
               <span className="font-bold">MelodyMastery</span> to miejsce
-              stworzone przez muzyków, artystów, wokalistów, których łączy pasja
-              jaką jest jest śpiew! Naszym celem jest przede wszystkim
-              spełnianie muzyczno-wokalnych marzeń, rozwój ekspresji , wokalu
-              oraz świadomości artystycznej! Do naszej społeczności może
-              dołączyć każdy, bez względu na umiejętności wokalne czy wiek.
-              Skupiamy się na stworzeniu jak najlepszych warunków, byś mógł w
-              bezpieczny, profesjonalny świadomy, dopasowany do siebie sposób
-              progresować wokalnie.
+              stworzone przez pasjonatkę muzyki, wokalistkę- Urszulę Dorosz, w
+              sercu której miłość do muzyki płynie już od dziecka! Celem
+              MelodyMastery jest przede wszystkim spełnianie muzyczno-wokalnych
+              marzeń, rozwój ekspresji , wokalu oraz świadomości artystycznej!
+              Do naszej społeczności może dołączyć każdy, bez względu na
+              umiejętności wokalne czy wiek. Skupiamy się na stworzeniu jak
+              najlepszych warunków, byś mógł w bezpieczny, profesjonalny,
+              świadomy, dopasowany do siebie sposób progresować wokal
             </p>
           </div>
           <div className="flex items-center justify-center md:col-start-4 md:col-end-7">
@@ -55,10 +55,9 @@ function AboutSection() {
               „Kolędowanie z Fundacją Polsat”. Występowała na deskach teatrów,
               między innymi Teatru Polskiego, otwierając galę finałową Festiwalu
               Teatrów Młodzieżowych. Jest laureatką ponad stu festiwali
-              wokalnych. Zdobywała nagrody na festiwalach o randze
-              ogólnopolskiej jak i międzynarodowej. Ula z zamiłowaniem rozwija
-              swoją pasję muzyczną, współtworząc i wydając piosenki, które
-              możecie znaleźć w sieciach streamingowych.
+              wokalnych. Ula z zamiłowaniem rozwija swoją pasję muzyczną,
+              współtworząc i wydając piosenki, które możecie znaleźć w sieciach
+              streamingowych.
             </p>
           </div>
         </div>
